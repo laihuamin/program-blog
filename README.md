@@ -6,3 +6,7 @@
       [python快速入门](programs/python学习笔记.md)<br/>
 13号  [Merge Intervals](programs/17.8.13.md)<br/>
 14号  [3sum](programs/17.8.14.md)<br/>
+
+## 10月份
+[HammingDistance](programs/HammingDistance.md)
+[JudgeRouteCircle](programs/JudgeRouteCircle.md)
