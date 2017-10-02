@@ -8,5 +8,6 @@
 #### [3sum](programs/17.8.14.md)
 
 ### 10月份
-#### [HammingDistance](programs/HammingDistance.md)
-#### [JudgeRouteCircle](programs/JudgeRouteCircle.md)
+#### [Hamming Distance](programs/HammingDistance.md)
+#### [Judge Route Circle](programs/JudgeRouteCircle.md)
+#### [Array Partition I](programs/ArrayPartitionI.md)
